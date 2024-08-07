@@ -1,44 +1,43 @@
-# Shyleja.S
-✨My personal repository👨🏻‍💻
-👋 Hello, I'm Shyleja
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shyleja.S
+=================================================================================================================================
+
 🚀 Tech Enthusiast | 💻 Web Developer | 📈 Transforming Ideas into Impactful Solutions | 🔒Cybersecurity Enthusiast | ✨Creative UI/UX Designer
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 Welcome to my GitHub profile! I’m passionate about building innovative digital solutions that push boundaries and make a difference. My journey spans web development,UI & UX digital marketing, Iot, AI and ML and cybersecurity, and I love blending creativity with technology to solve complex problems.
 
-🛠️ What I Do:
-    🌐 Web Development: Crafting elegant and functional web applications using HTML, CSS, JavaScript, and JavaFX/Swing.
-    📊 Digital Marketing: Developing data-driven strategies and content that drive engagement and amplify brand presence.
-    🔐 Cybersecurity: Applying best practices to protect digital assets and educate others on the importance of cybersecurity.
-    🎨 UI/UX Design: Crafting intuitive and visually appealing interfaces that prioritize user experience and accessibility.
-    🔗 IoT Development: Innovating at the intersection of hardware and software to create smart, connected devices.
+* ✉️  You can contact me at [shyleja.s@gmail.com](mailto:shyleja.s@gmail.com)
+* 🧠  I'm learning Cybersecurity and Network Security
+* ⚡  📈 Mini Projects:
+            * 🤖HUGENPROX : Human Gender Proximity Device” (On Process)
+             Description: An IOT based Women Safety Device using Arduino Micro Controller.
+* ✅Projects
+            • Completed a Major project in Google Ads “ A Display and video ads campaign for Fabindia’s new product line” .
+            • Completed a Minor project in Google Ads “Campaign for branding of Tata Altroz”.
+            • Completed a Minor project in Django Programming “Creating a Student app for Delhi Public School”.
+            • Completed a Major project in Django Programming “Predict Driver’s Availability for Swiggy”.
+* 🌟 Fun Fact: I have a soft spot for Code, Create, Conquer – One Commit at a Time! and I'm always on the lookout for something extraordinary!
 
-🔍 Current Projects:
-     🛡️ Chatbot: Building an intelligent chatbot to streamline communication and provide quick responses.
-
-🔭 Internship Experience
-     •	Unschool | Digital Marketing April2022-October2022
-     •	Critter Graphix | Content Writer October2023- December2023
-     •	DigiAlert| Cybersecurity May2024- June2024
-
-📈 Mini Projects:
-    🤖HUGENPROX : Human Gender Proximity Device” (On Process) 
-    Description: An IOT based Women Safety Device using Arduino Micro Controller.  
-
-✅Projects
-    •	Completed a Major project in Google Ads “ A Display and video ads campaign for Fabindia’s new product line” . 
-    •	Completed a Minor project in Google Ads “Campaign for branding of Tata Altroz”. 
-    •	Completed a Minor project in Django Programming “Creating a Student app for Delhi Public School”. 
-    •	Completed a Major project in Django Programming “Predict Driver’s Availability for Swiggy”. 
-
-📈 Skills
-     • Web Technologies: HTML, CSS, JavaScript, JavaFX, Swing
-     • Digital Marketing: SEO, Content Creation, Social Media Strategy
-     • Cybersecurity: Risk Management, Security Best Practices
-
-📫 Let's Connect
-     • LinkedIn: www.linkedin.com/in/shyleja
-     • Email: shyleja.s@gmail.com 
-  
-🌟 Fun Fact: I have a soft spot for Code, Create, Conquer – One Commit at a Time! and I'm always on the lookout for something extraordinary!
+### Skills
 
 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/shy_unique25_23077" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Shylejasatheesan " target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/shyleja" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Shylejasatheesan "><img src="https://github-readme-stats.vercel.app/api?username=Shylejasatheesan &show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ef4444&icon_color=000000&bg_color=1c1917&hide_border=true&show_icons=true" alt="Shylejasatheesan 's GitHub stats" /></a>
+
+<a href="http://www.github.com/Shylejasatheesan "><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shylejasatheesan &stroke=ef4444&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ef4444&currStreakLabel=ffffff&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
+
+<a href="http://www.github.com/Shylejasatheesan "><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shylejasatheesan &bg_color=1c1917&color=ef4444&line=000000&point=ef4444&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Shylejasatheesan " align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shylejasatheesan &langs_count=10&title_color=ffffff&text_color=ef4444&icon_color=000000&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

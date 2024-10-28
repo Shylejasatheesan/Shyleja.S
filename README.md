@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shyleja.S
 =================================================================================================================================
 
-🚀 Tech Enthusiast | 💻 Web Developer | 📈 Transforming Ideas into Impactful Solutions | 🔒Cybersecurity Enthusiast | ✨Creative UI/UX Designer
+🚀 Tech Enthusiast | 📈 Transforming Ideas into Impactful Solutions | 🔒Cybersecurity Enthusiast | ✨Creative UI/UX Designer
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 Welcome to my GitHub profile! I’m passionate about building innovative digital solutions that push boundaries and make a difference. My journey spans web development,UI & UX digital marketing, Iot, AI and ML and cybersecurity, and I love blending creativity with technology to solve complex problems.

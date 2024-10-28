@@ -9,17 +9,14 @@ Welcome to my GitHub profile! I’m passionate about building innovative digital
 * ✉️  You can contact me at [shyleja.s@gmail.com]
 * 🧠  I'm learning Cybersecurity and Network Security
 * ⚡  📈 Mini Projects:
-            * 🤖HUGENPROX : Human Gender Proximity Device (On Process)
-             Description: An IOT based Women Safety Device using Arduino Micro Controller.
-            * ALGO-DETECTOR: A chatbot used to analyze the encrypted data (On Process)
-             Description: This chatbot will analyze the encrypted data set by which algorithm it has been encrypted, any weakness found in the 
-             encryption algorithm and how to overcome the weakness.
-            * DATA SCOPE:Unlocking Land’s Potential with Data!(On Process)
-             Description:This AI-powered bot is designed to revolutionize the real estate industry with the aid of supplying unique and 
-             insightful facts about land information.
+   * 🤖HUGENPROX : Human Gender Proximity Device (On Process)
+ Description: An IOT based Women Safety Device using Arduino Micro Controller.
+   * ALGO-DETECTOR: A chatbot used to analyze the encrypted data (On Process)
+ Description: This chatbot will analyze the encrypted data set by which algorithm it has been encrypted, any weakness found in the encryption algorithm and how to overcome the weakness.
+   * DATA SCOPE:Unlocking Land’s Potential with Data!(On Process)
+ Description:This AI-powered bot is designed to revolutionize the real estate industry with the aid of supplying unique and insightful facts about land information.
 
-  
-* ✅Projects
+  * ✅Projects
             • Completed a Major project in Google Ads “ A Display and video ads campaign for Fabindia’s new product line” .
             • Completed a Minor project in Google Ads “Campaign for branding of Tata Altroz”.
             • Completed a Minor project in Django Programming “Creating a Student app for Delhi Public School”.

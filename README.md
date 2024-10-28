@@ -17,12 +17,12 @@ Welcome to my GitHub profile! I’m passionate about building innovative digital
  Description:This AI-powered bot is designed to revolutionize the real estate industry with the aid of supplying unique and insightful facts about land information.
 
   * ✅Projects
-            • Completed a Major project in Google Ads “ A Display and video ads campaign for Fabindia’s new product line” .
-            • Completed a Minor project in Google Ads “Campaign for branding of Tata Altroz”.
-            • Completed a Minor project in Django Programming “Creating a Student app for Delhi Public School”.
-            • Completed a Major project in Django Programming “Predict Driver’s Availability for Swiggy”.
-            • Completed a Minor project in Ethical Hacking “Gather detailed information on NMap and its different usage”.
-            • Completed a Major project in Ethical Hacking “Using different methods cracking social media password”.
+  * • Completed a Major project in Google Ads “ A Display and video ads campaign for Fabindia’s new product line” .
+  * • Completed a Minor project in Google Ads “Campaign for branding of Tata Altroz”.
+  * • Completed a Minor project in Django Programming “Creating a Student app for Delhi Public School”.
+  * • Completed a Major project in Django Programming “Predict Driver’s Availability for Swiggy”.
+  * • Completed a Minor project in Ethical Hacking “Gather detailed information on NMap and its different usage”.
+  * • Completed a Major project in Ethical Hacking “Using different methods cracking social media password”.
 
 
    
